@@ -444,3 +444,28 @@ Read only the relevant reference:
 - `references/design-review.md` for editor-style review, self-rejection, and revision triage.
 - `references/print-prepress.md` for A4, bleed, PDF, ZIP, and print-shop delivery notes.
 - `references/image-generation.md` for using image models without losing product truth.
+## Pump, Valve, and Technical Manual Mode
+
+When creating pump, valve, or fluid-handling equipment manuals, technical catalogs, specification booklets, or bilingual Chinese-English product publications, you MUST read and follow:
+
+`references/pump-valve-manual-design.md`
+
+This is a mandatory specialist module.
+
+Before designing:
+1. Inventory all supplied source files.
+2. Establish the authoritative technical source for every specification.
+3. Analyze the user's visual reference manual.
+4. Define the publication grid, typography, bilingual system, master pages, and table styles.
+5. Create three design prototypes: cover/back cover, company introduction spread, and technical data spread.
+6. Obtain user approval before producing the complete publication.
+
+A technical manual must look like a professionally typeset industrial publication, NOT a PowerPoint presentation or a collection of disconnected slides.
+
+Never invent product specifications, engineering drawings, factory capabilities, certifications, or company claims.
+
+Preserve original product geometry and technical accuracy.
+
+Use InDesign for multi-page publication layout, Illustrator for editable vector graphics, Photoshop for genuine product image preparation, and Acrobat for final PDF inspection.
+
+Never claim native Adobe source files exist unless they have actually been created and verified.
